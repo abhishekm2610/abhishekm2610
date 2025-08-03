@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Abhishek Muthukumar 👋
 
-<!--
-**abhishekm2610/abhishekm2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate student at **Purdue University**, passionate about **Kubernetes**, **storage**, **LLM inference**, and **cloud-native infrastructure**.  
+🔬 Currently researching **GPU optimization for GenAI inference** on Kubernetes.  
+💻 Formerly at **Cisco Systems** and now contributing to **Veeam (Kasten)** and **Purdue RCAC**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Skills
+
+- **Languages**: Go, Python, C  
+- **Cloud & Infra**: Kubernetes, Docker, OpenShift, GKE, AWS (EKS/S3/EC2)
+- **Databases**: PostgreSQL, MongoDB, SQLite
+
+---
+
+## 📍 Recent Experience
+
+- 🧪 **Graduate Research Scientist**, RCAC @ Purdue  
+  Building Purdue GenAI Studio with GPU autoscaling and real-time billing on Kubernetes.
+
+- 🛠️ **Engineering Intern**, Kasten @ Veeam  
+  Implementing portability features for the Kopia backup tool.
+
+- 🌐 **Software Engineer**, Cisco Systems  
+  Created queue-based microservices and saved 3000+ hours/quarter via automation.
+
+---
+
+## 🏆 Highlights
+
+- 📝 Co-authored paper presented at **PEARC25** (2025)  
+- 🌎 Represented Purdue at **SC24** & attended **KubeCon NA 2024**  
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/abhishekm2610)
+
+---
